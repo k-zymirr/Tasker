@@ -1,5 +1,5 @@
 # Tasker
-*A task manager from the terminal. For help, type tasker -h or --help*
+*A task manager from the terminal.*
 
 ## Requirements
 - build-essential
