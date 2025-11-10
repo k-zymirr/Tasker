@@ -24,3 +24,7 @@ Actions:
 
 To see how to use an action, type tasker [ACTION] -h or --help
 ```
+
+## Contributors
+
+[@k_zymirr](https://github.com/k-zymirr)
